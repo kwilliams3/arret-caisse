@@ -1,0 +1,63 @@
+=== 2026-03-04 16:07:38 ===
+getDetails appelé
+POST: Array
+(
+    [ramassage_id] => 3019
+)
+
+ID ramassage: 3019
+Appel de Ramassage::find(3019)
+Résultat de find: TROUVÉ
+Données du ramassage: Array
+(
+    [id] => 3019
+    [entite_id] => 1
+    [agence_id] => 1
+    [periode] => mars
+    [date_debut] => DateTime Object
+        (
+            [date] => 2026-03-03 00:00:00.000000
+            [timezone_type] => 3
+            [timezone] => Europe/Berlin
+        )
+
+    [date_fin] => DateTime Object
+        (
+            [date] => 2026-04-02 00:00:00.000000
+            [timezone_type] => 3
+            [timezone] => Europe/Berlin
+        )
+
+    [liste_path] => DocumentsRamassage/1772494666_MonCV.pdf
+    [observations] => Entité: CBC | Agence: KRIBI
+    [created_by] => 1
+    [updated_by] => 1
+    [date_creation] => DateTime Object
+        (
+            [date] => 2026-03-03 00:37:46.183000
+            [timezone_type] => 3
+            [timezone] => Europe/Berlin
+        )
+
+    [date_modification] => DateTime Object
+        (
+            [date] => 2026-03-03 00:37:46.183000
+            [timezone_type] => 3
+            [timezone] => Europe/Berlin
+        )
+
+    [entite_nom] => Direction R�gionale
+    [agence_nom] =>                          
+)
+
+Observations brutes: Entité: CBC | Agence: KRIBI
+Entité extraite: CBC
+Agence extraite: KRIBI
+Date création formatée: 03/03/2026 00:37
+Date début formatée: 03/03/2026
+Date fin formatée: 02/04/2026
+État validité: success, Valide
+HTML généré, longueur: 8024 caractères
+JSON encodé, longueur: 0 caractères
+=== FIN ===
+

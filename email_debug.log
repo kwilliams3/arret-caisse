@@ -1,0 +1,66 @@
+2026-03-02 09:54:39 - sendNotification pour operation 2045, type: confirmation
+2026-03-02 09:54:39 - Recherche email pour agence ID: 2
+2026-03-02 09:54:39 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-02 09:54:39 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-02 09:54:39 - Tentative d'envoi email de CONFIRMATION à prince.njiatcha@info.groupesorepco.com
+2026-03-02 09:54:40 - ✅ Email de CONFIRMATION envoyé avec succès
+2026-03-04 08:30:41 - sendNotification pour operation 2048, type: confirmation
+2026-03-04 08:30:41 - Recherche email pour agence ID: 2
+2026-03-04 08:30:41 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-04 08:30:41 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-04 08:30:41 - Tentative d'envoi email de CONFIRMATION à prince.njiatcha@info.groupesorepco.com
+2026-03-04 08:30:41 - ✅ Email de CONFIRMATION envoyé avec succès
+2026-03-04 08:31:51 - sendNotification pour operation 2054, type: validation
+2026-03-04 08:31:51 - Recherche email pour agence ID: 6
+2026-03-04 08:31:51 - Email trouvé: stagiaire@info.groupesorepco.com
+2026-03-04 08:31:51 - Email destinataire: stagiaire@info.groupesorepco.com
+2026-03-04 08:31:51 - Tentative d'envoi email de VALIDATION à stagiaire@info.groupesorepco.com
+2026-03-04 08:31:51 - ✅ Email de VALIDATION envoyé avec succès
+2026-03-04 08:32:33 - sendNotification pour operation 2053, type: validation
+2026-03-04 08:32:33 - Recherche email pour agence ID: 6
+2026-03-04 08:32:33 - Email trouvé: stagiaire@info.groupesorepco.com
+2026-03-04 08:32:33 - Email destinataire: stagiaire@info.groupesorepco.com
+2026-03-04 08:32:33 - Tentative d'envoi email de VALIDATION à stagiaire@info.groupesorepco.com
+2026-03-04 08:32:33 - ✅ Email de VALIDATION envoyé avec succès
+2026-03-04 08:45:48 - sendNotification pour operation 2046, type: validation
+2026-03-04 08:45:48 - Recherche email pour agence ID: 2
+2026-03-04 08:45:48 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-04 08:45:48 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-04 08:45:48 - Tentative d'envoi email de VALIDATION à prince.njiatcha@info.groupesorepco.com
+2026-03-04 08:45:49 - ✅ Email de VALIDATION envoyé avec succès
+2026-03-05 09:30:35 - sendNotification pour operation 2050, type: confirmation
+2026-03-05 09:30:35 - Recherche email pour agence ID: 2
+2026-03-05 09:30:35 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-05 09:30:35 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-05 09:30:35 - Tentative d'envoi email de CONFIRMATION à prince.njiatcha@info.groupesorepco.com
+2026-03-05 09:30:36 - ✅ Email de CONFIRMATION envoyé avec succès
+2026-03-05 12:38:20 - sendNotification pour operation 2048, type: validation
+2026-03-05 12:38:20 - Recherche email pour agence ID: 2
+2026-03-05 12:38:20 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-05 12:38:20 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-05 12:38:20 - Tentative d'envoi email de VALIDATION à prince.njiatcha@info.groupesorepco.com
+2026-03-05 12:38:20 - ✅ Email de VALIDATION envoyé avec succès
+2026-03-10 09:16:08 - sendNotification pour operation 2, type: confirmation
+2026-03-10 09:16:08 - Recherche email pour agence ID: 2
+2026-03-10 09:16:08 - Recherche email pour agence ID: 2
+2026-03-10 09:16:08 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-10 09:16:08 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-10 09:16:08 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-10 09:16:08 - Tentative d'envoi email de CONFIRMATION à prince.njiatcha@info.groupesorepco.com
+2026-03-10 09:16:09 - ✅ Email de CONFIRMATION envoyé avec succès
+2026-03-10 15:16:26 - sendNotification pour operation 3, type: validation
+2026-03-10 15:16:26 - Recherche email pour agence ID: 2
+2026-03-10 15:16:26 - Recherche email pour agence ID: 2
+2026-03-10 15:16:26 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:16:26 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:16:26 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:16:26 - Tentative d'envoi email de VALIDATION à prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:16:26 - ✅ Email de VALIDATION envoyé avec succès
+2026-03-10 15:21:18 - sendNotification pour operation 2, type: validation
+2026-03-10 15:21:18 - Recherche email pour agence ID: 2
+2026-03-10 15:21:18 - Recherche email pour agence ID: 2
+2026-03-10 15:21:18 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:21:18 - Email trouvé: prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:21:18 - Email destinataire: prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:21:18 - Tentative d'envoi email de VALIDATION à prince.njiatcha@info.groupesorepco.com
+2026-03-10 15:21:18 - ✅ Email de VALIDATION envoyé avec succès

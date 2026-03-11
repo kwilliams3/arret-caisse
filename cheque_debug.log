@@ -1,0 +1,204 @@
+📋 getAll() - 1 résultats
+📋 getAll() - 1 résultats
+========== ADD CHEQUE ==========
+📥 Données reçues: Array
+(
+    [nom_client] => doteu franck
+    [numero_cheque] => 12345
+    [montant] => 1000000
+    [banque] => CBC
+    [date_reception] => 2026-01-23
+    [observations] => RAS
+    [agence_id] => 2
+    [created_by] => 55
+    [date_entree] => 2026-01-23 17:05:01
+)
+
+📁 Scan path: DocumentsCheques/1769184301_1756461525539.png
+📝 SQL: INSERT INTO Cheques 
+                    (nom_client, numero_cheque, montant, banque, date_reception, 
+                     date_entree, observations, agence_id, created_by, scan_path, statut) 
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'en cours')
+🔢 Params: Array
+(
+    [0] => doteu franck
+    [1] => 12345
+    [2] => 1000000
+    [3] => CBC
+    [4] => 2026-01-23
+    [5] => 2026-01-23 17:05:01
+    [6] => RAS
+    [7] => 2
+    [8] => 55
+    [9] => DocumentsCheques/1769184301_1756461525539.png
+)
+
+⚡ Exécution query...
+✅ Query exécutée. Result: 1
+🆔 Requête ID: SELECT SCOPE_IDENTITY() as new_id
+📊 ID Result: Resource id #22
+⚠️ Aucun ID récupéré, fallback time()
+📋 getAll() - 1 résultats
+📋 getAll() - 1 résultats
+📋 getAll() - 1 résultats
+📋 getAll() - 1 résultats
+========== ADD CHEQUE ==========
+📥 Données: Array
+(
+    [nom_client] => doteu franck
+    [numero_cheque] => 12345
+    [montant] => 10000000
+    [banque] => CBC
+    [date_reception] => 2026-01-23
+    [observations] => RAS
+    [agence_id] => 2
+    [created_by] => 55
+    [date_entree] => 2026-01-23 17:09:57
+)
+
+📝 SQL avec OUTPUT: INSERT INTO Cheques 
+                    (nom_client, numero_cheque, montant, banque, date_reception, 
+                     date_entree, observations, agence_id, created_by, scan_path, statut) 
+                    OUTPUT INSERTED.id
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'en cours')
+📊 Result de query(): 1
+🆔 IDENT_CURRENT: Resource id #18
+📊 MAX ID: Resource id #20
+⚠️ Fallback time()
+📋 getAll() - 1 résultats
+📋 getAll() - 1 résultats
+❌ Connexion SQL Server échouée: Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+
+❌ Connexion SQL Server échouée: Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+
+========== ADD CHEQUE DIRECT ==========
+📥 Données: Array
+(
+    [nom_client] => doteu franck
+    [numero_cheque] => 12345
+    [montant] => 120000000
+    [banque] => CBC
+    [date_reception] => 2026-01-23
+    [observations] => RAS
+    [agence_id] => 2
+    [created_by] => 55
+    [date_entree] => 2026-01-23 17:16:17
+)
+
+❌ Connexion SQL Server échouée: Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+
+❌ Pas de connexion
+❌ Connexion SQL Server échouée: Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+
+❌ Connexion SQL Server échouée: Array
+(
+    [0] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+    [1] => Array
+        (
+            [0] => 28000
+            [SQLSTATE] => 28000
+            [1] => 18456
+            [code] => 18456
+            [2] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+            [message] => [Microsoft][ODBC Driver 11 for SQL Server][SQL Server]Login failed for user 'sa'.
+        )
+
+)
+

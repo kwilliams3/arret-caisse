@@ -1,0 +1,4 @@
+https://www.didstation.com/sms_http_api&lang=en&username=fabricegousse@gmail.com&password=Masterp1988&from=fabrice&to=237693202712&message=envoi_de_message_test_de_fabrice&dlr=1&message_type=0&route_type=1
+
+fabricegousse@gmail
+Masterp1988&from

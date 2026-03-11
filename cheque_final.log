@@ -1,0 +1,35 @@
+========== ADD CHEQUE FINAL ==========
+📥 Données: Array
+(
+    [nom_client] => doteu franck
+    [numero_cheque] => 12345
+    [montant] => 1000000000
+    [banque] => CBC
+    [date_reception] => 2026-01-23
+    [observations] => RAS
+    [agence_id] => 2
+    [created_by] => 55
+    [date_entree] => 2026-01-23 17:19:59
+)
+
+📝 SQL TEXT: INSERT INTO Cheques 
+                    (nom_client, numero_cheque, montant, banque, date_reception, 
+                     date_entree, observations, agence_id, created_by, scan_path, statut) 
+                    VALUES 
+                    ('doteu franck', 
+                     '12345', 
+                     1000000000, 
+                     'CBC', 
+                     '2026-01-23', 
+                     '2026-01-23 17:19:59', 
+                     'RAS', 
+                     2, 
+                     55, 
+                     'DocumentsCheques/1769185199_1756461525539.png', 
+                     'en cours')
+📊 Result query(): 1
+🆔 @@IDENTITY Result: Resource id #18
+📊 MAX ID Result: Resource id #20
+⚠️ Fallback time()
+📋 getAll() - N/A résultats
+📋 getAll() - N/A résultats
