@@ -20,8 +20,8 @@ class Database{
 
      public function getCon(){
         if($this->con === null){
-            $serverName = "KING-WILLIAMS";
-            $connection1 = array("Database"=>"ArretsCaisses","UID"=>"sa", "PWD"=>"AZERTY123");
+            $serverName = "";
+            $connection1 = array("Database"=>"ArretsCaisses","UID"=>"sa", "PWD"=>"");
             $conn1 = sqlsrv_connect($serverName, $connection1);
             $this->con = $conn1 ;
 			
@@ -31,9 +31,9 @@ class Database{
 
     public function getConSage(){
         if($this->SageConnect === null){
-            $server = "192.168.0.128\SAGEX3REQ";
+            $server = "";
 			
-            $connect = array("Database"=>"basex3", "UID"=>"sa", "PWD"=>"Password01*");
+            $connect = array("Database"=>"basex3", "UID"=>"sa", "PWD"=>"");
             $conn = sqlsrv_connect($server, $connect);
             $this->SageConnect = $conn ;
 			
